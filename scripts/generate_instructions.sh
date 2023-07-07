@@ -5,4 +5,4 @@ python self_instruct/bootstrap_instructions.py \
     --num_instructions_to_generate 50000 \
     --seed_tasks_path data/seed_tasks.jsonl \
     --engine "davinci" \
-    --api_key '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'
+    --api_key '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'
